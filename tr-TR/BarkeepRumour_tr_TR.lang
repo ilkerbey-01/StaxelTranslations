@@ -1,46 +1,46 @@
 language.code=tr-TR
 language=Türkçe
-//TODO Translate [Reference] 'They say the old farmhouse is haunted...'
+//TODO Translate [Reference] 'Eski çiftlik evinin lanwtli olduğunu söylüyorlar...'
 staxel.village.dialogue.job.BarkeepRumour.line:10000700=
-//TODO Translate [Reference] 'At night you'll hear all sorts of strange sounds...'
+//TODO Translate [Reference] 'Gece olunca tuhaf sesler geliyormuş...'
 staxel.village.dialogue.job.BarkeepRumour.line:10000800=
-//TODO Translate [Reference] 'Nah, I'm just messing with you!'
+//TODO Translate [Reference] 'HiAslında hayır yanlızca dalga geçiyordum!'
 staxel.village.dialogue.job.BarkeepRumour.line:10000900=
-//TODO Translate [Reference] 'I've heard tell that there are fairies in the woodlands around here.'
+//TODO Translate [Reference] 'Bu ağaçlık arazide periler olduğunu duydum.'
 staxel.village.dialogue.job.BarkeepRumour.line:10001000=
-//TODO Translate [Reference] 'Not sure how reliable those stories are though...'
+//TODO Translate [Reference] 'Bu hikayelerin ne kadar gerçek olduğuna emin değilim...'
 staxel.village.dialogue.job.BarkeepRumour.line:10001100=
-//TODO Translate [Reference] 'No one seems to have seen any...'
+//TODO Translate [Reference] 'Kimse görmüş gibi gözükmüyor...'
 staxel.village.dialogue.job.BarkeepRumour.line:10001200=
-//TODO Translate [Reference] 'The old farmer used to tell tales of growing giant crops.'
+//TODO Translate [Reference] 'Yaşlı çiftçi büyüyen devasa bitkiler hakkında hikayeler anlatırdı...'
 staxel.village.dialogue.job.BarkeepRumour.line:10001300=
-//TODO Translate [Reference] 'Can't say I've seen anyone have that kind of success since...'
+//TODO Translate [Reference] 'Şimdiye kadar başaranı görmedim...'
 staxel.village.dialogue.job.BarkeepRumour.line:10001400=
-//TODO Translate [Reference] 'Watch out for that ^c:1486b0;Farm Fan^c:pop;...'
+//TODO Translate [Reference] 'Şuna dikkat et^c:1486b0;Farm Fan^c:pop;...'
 staxel.village.dialogue.job.BarkeepRumour.line:10001500=
-//TODO Translate [Reference] 'She can be a bit... overbearing at times.'
+//TODO Translate [Reference] 'Bazen biraz... Çıldırabiliyor.'
 staxel.village.dialogue.job.BarkeepRumour.line:10001600=
-//TODO Translate [Reference] 'I don't doubt she'll have plenty of useful tips for you though!'
+//TODO Translate [Reference] 'Bununla birlikte sana fazla yararlı ipucu vereceğinden şüpheliyim!'
 staxel.village.dialogue.job.BarkeepRumour.line:10001700=
-//TODO Translate [Reference] 'No, I'm afraid I don't know her real name either.'
+//TODO Translate [Reference] 'Hayır. Üzgünüm onun gerçek adını bilmiyorum.'
 staxel.village.dialogue.job.BarkeepRumour.line:10001800=
-//TODO Translate [Reference] 'Our sap is the best you'll find anywhere in the region!'
+//TODO Translate [Reference] 'Bölgede bulabileceğin en iyi fidanlar bizdedir!'
 staxel.village.dialogue.job.BarkeepRumour.line:10001900=
-//TODO Translate [Reference] 'The recipe is a secret though, so don't ask.'
+//TODO Translate [Reference] 'Tarif gizli bu yüzden sorma.'
 staxel.village.dialogue.job.BarkeepRumour.line:10002000=
-//TODO Translate [Reference] 'Do we serve milk?'
+//TODO Translate [Reference] 'Süt servis ediyor muyuz?'
 staxel.village.dialogue.job.BarkeepRumour.line:10002100=
-//TODO Translate [Reference] 'No... why would you think that?'
+//TODO Translate [Reference] 'Hayır... Neden böyle düşündün?'
 staxel.village.dialogue.job.BarkeepRumour.line:10002200=
-//TODO Translate [Reference] 'Supposedly ^c:d03e37;baking^c:pop; can be quite profitable.'
+//TODO Translate [Reference] 'Eminimki ^c:d03e37;baking^c:pop; kârlı olacaktır.'
 staxel.village.dialogue.job.BarkeepRumour.line:10002300=
-//TODO Translate [Reference] 'It would be wonderful to have a ^c:1486b0;bakery^c:pop; around here.'
+//TODO Translate [Reference] 'Buralarda bir ^c:1486b0;bakery^c:pop; olması mükemmel olurdu.'
 staxel.village.dialogue.job.BarkeepRumour.line:10002400=
-//TODO Translate [Reference] 'Perhaps someone will build one someday...'
+//TODO Translate [Reference] 'Muhtemelen birisi birgün yapacaktır...'
 staxel.village.dialogue.job.BarkeepRumour.line:10002500=
-//TODO Translate [Reference] 'That ^c:1486b0;{0-l_name}^c:pop; is a bit of a mystery...'
+//TODO Translate [Reference] 'Şu ^c:1486b0;{0-l_name}^c:pop; biraz gizemli...'
 staxel.village.dialogue.job.BarkeepRumour.line:10005000=
-//TODO Translate [Reference] 'He was minding the store even back when I was a young lad.'
+//TODO Translate [Reference] 'Ben küçük bir kızken bile marketi önemsiyordu.'
 staxel.village.dialogue.job.BarkeepRumour.line:10005100=
-//TODO Translate [Reference] 'Hardly seems to have aged a day since...'
+//TODO Translate [Reference] 'Yaşlı iken zor gözüküyor...'
 staxel.village.dialogue.job.BarkeepRumour.line:10005200=
