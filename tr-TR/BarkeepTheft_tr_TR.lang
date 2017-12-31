@@ -1,6 +1,6 @@
 language.code=tr-TR
 language=Türkçe
-//[Reference] 'A thief in town? They won't steal any free drinks from me!'
-staxel.village.dialogue.BarkeepTheft.line:10000100=Köyde bir hırsız? Benden ücretsiz içecek çalamayacaklar!
-//[Reference] 'Keep an eye out for suspicious characters.'
+//[Reference] 'şehirde hırsızmı var? İçeceklerimi asla çalamayacaklar!'
+staxel.village.dialogue.BarkeepTheft.line:10000100=Köyde bir hırsız mı var? Benden ücretsiz içecek çalamayacaklar!
+//[Reference] 'şüpheli insanlar için gözünü açık tut.'
 staxel.village.dialogue.BarkeepTheft.line:10000200=Şüpheliler için gözünü açık tut.
